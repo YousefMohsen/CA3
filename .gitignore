@@ -7,3 +7,7 @@ Backend/dist/
 Backend/nbdist/
 Backend/.nb-gradle/
 ### NetBeans ###
+
+
+
+frontend/node_modules/
